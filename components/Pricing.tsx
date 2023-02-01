@@ -22,7 +22,7 @@ export default function Pricing() {
                 maxW='994px'
                 margin='auto'
                 mt='-160px'
-                borderRadius='12px'
+                borderRadius='14px'
                 overflow='hidden'
                 boxShadow='0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.04)'
             >
